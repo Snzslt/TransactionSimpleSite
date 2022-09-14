@@ -1,0 +1,36 @@
+.signup-form{
+    max-width: 360px;
+    margin: 60px auto;
+    padding: 20px;
+    background-color:rgba(156, 181, 168, 0.5);
+    
+   
+}
+.signup-form h2{
+    margin-bottom: 10px;
+}
+
+.signup-form label{
+    display: block;
+    margin-bottom: 30px;
+}
+.signup-form span{
+    display: block;
+    margin-bottom:6px;
+}
+.signup-form input{
+    padding:8px 6px;
+    font-size:1em;
+    color:#777;
+    width:90%;
+}
+.signup-form p{
+    color: red;
+    font-size: .75em;
+    margin: 10px;
+    text-align: center;
+    font-style: italic;
+
+    
+
+}
